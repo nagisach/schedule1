@@ -1,0 +1,52 @@
+body {
+	background-image: url("/images/43451.png");
+	background-position: center;
+	background-size: 3000px;
+	line-height: 60px;
+}
+
+.form-signup {
+	border: solid 2px lightgray;
+	border-radius: 18px;
+	background-color: #efefef;
+	width: 400px;
+	height: 550px;
+	margin-left: 750px;
+	margin-top: 150px;
+}
+
+.text-center {
+	font-size: 40px;
+	padding-top: 20px;
+}
+
+.form-group {
+	margin-bottom: 0px;
+}
+
+
+label {
+	font-size: 20px;
+	text-align: left;
+	margin-top: 10px;
+	margin-bottom: 0px;
+    padding-left:20px;
+}
+
+.form-control {
+	width: 350px;
+	height: 40px;
+	margin-left: 20px;
+}
+
+.btn.btn-primary {
+	width: 200px;
+	height: 50px;
+	background-color: red;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+a {
+	font-size: 20px;
+}

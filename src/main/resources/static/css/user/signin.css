@@ -1,0 +1,20 @@
+body {
+	background-image: url("/images/43451.png");
+	background-position: center;
+	background-size: 3000px;
+	line-height: 60px;
+}
+
+.bg-light {
+	margin-left: 650px;
+	margin-top: 300px;
+}
+
+.btn.btn-primary {
+	font-size: 30px;
+	border-radius: 6px;
+	width: 600px;
+	height:60px;
+	margin-bottom :60px;
+	background-color: red;
+}
